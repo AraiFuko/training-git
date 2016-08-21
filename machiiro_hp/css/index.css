@@ -1,0 +1,33 @@
+@charset "utf-8";
+/*index.css*/
+#container{
+  width: 1500px;
+  height: 40px;
+  margin: 50px auto;
+  font-style:normal;
+  font-family:sans-serif;
+}
+#header {
+  border-style: solid;
+  border: 2px dotted #5CC391;
+}
+
+h1.logoMark{
+  width:100px;
+}
+
+#globalNav ul{
+  height: 50px;
+	border: 1px solid #e2d419;
+}
+#globalNav ul li {
+display: inline;
+}
+#main{
+height: 1000px;
+border: 2px solid #2825e4;
+}
+#footer{
+height: 100px;
+border: 3px solid #ee42ce;
+}
